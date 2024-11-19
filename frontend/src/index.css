@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.primary{
+    background-color: #265077;
+}
+.primaryText{
+    color: #265077;
+}
